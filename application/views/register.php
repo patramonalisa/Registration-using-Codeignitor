@@ -58,7 +58,7 @@
     </div></br>
 
     <div class="form-group">
-    	<button class="btn btn-block btn-primary">Register</button>
+    	<button class="btn btn-block btn-primary">Registerr</button>
     </div>
 
   </div>
